@@ -4,7 +4,7 @@
 *.lck
 wallet/
 tnsnames.ora
-.pem
+*.pem
 
 # Ignore Terraform State (contains sensitive metadata)
 *.tfstate
